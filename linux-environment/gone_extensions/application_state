@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="org.gnome.FileRoller.desktop" score="0" last-seen="1728473741"/>
+    <application id="google-chrome.desktop" score="18954.268371127546" last-seen="1728474022"/>
+    <application id="jetbrains-studio-8907ec9b-7889-426a-99bf-8ca300991119.desktop" score="219" last-seen="1727933272"/>
+    <application id="gnome-control-center.desktop" score="11" last-seen="1728474020"/>
+    <application id="com.cloudflare.WarpTaskbar.desktop" score="14.00009161233902" last-seen="1727931555"/>
+    <application id="org.gnome.eog.desktop" score="0" last-seen="1727930986"/>
+    <application id="org.gnome.Nautilus.desktop" score="46.011861979961395" last-seen="1728474012"/>
+    <application id="org.gnome.gedit.desktop" score="1" last-seen="1728473842"/>
+    <application id="code_code.desktop" score="6" last-seen="1727930350"/>
+    <application id="telegram-desktop_telegram-desktop.desktop" score="14" last-seen="1727932213"/>
+    <application id="update-manager.desktop" score="3" last-seen="1728473886"/>
+    <application id="org.gnome.Terminal.desktop" score="31.000889055430889" last-seen="1727963742"/>
+    <application id="firefox_firefox.desktop" score="33" last-seen="1727930750"/>
+    <application id="jetbrains-toolbox.desktop" score="13.571465544402599" last-seen="1727930262"/>
+    <application id="jetbrains-idea-b0767354-7338-4d3b-a03d-86b4f56094ca.desktop" score="574.01285602897406" last-seen="1727963958"/>
+  </context>
+</application-state>
